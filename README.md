@@ -1,6 +1,6 @@
 - 👋 Oi, Sou @Naiara-Oliveira
 - 👩‍🎓 Universidade Federal de Mato Grosso do sul  no campus Coxim  curso Sistemas de Informação - Bacharelado.
-- 💻 aprendendo php e MySQL
+- 💻 aprendendo Vue.js
 - 🌱 
 - 😄 Pronouns: ela/dela
 
