@@ -16,7 +16,7 @@
 <img align="center"  height="30" width="50" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="right" alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
   
-   <img align="center" alt="" height="30" width="40" src="https://images-na.ssl-images-amazon.com/images/I/61np1wbr9pL.png">
+   <img align="center" alt="" height="30" width="40" src="https:https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2415%2FPNG%2F512%2Fvuejs_original_wordmark_logo_icon_146305.png&imgrefurl=https%3A%2F%2Ficon-icons.com%2Fpt%2Ficone%2Fvuejs-original-a-marca-logo%2F146305&tbnid=flsKxanw9wsrZM&vet=12ahUKEwiPxKnsrPH2AhWjtZUCHfdQCooQMygMegQIARA1..i&docid=PQwesTC45dX30M&w=512&h=512&q=icone%20com%20o%20href%20do%20vue&ved=2ahUKEwiPxKnsrPH2AhWjtZUCHfdQCooQMygMegQIARA1">
 </div>
   
 ##
