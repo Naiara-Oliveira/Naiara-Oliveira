@@ -16,7 +16,7 @@
 <img align="center"  height="30" width="50" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="right" alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
   
-   <img align="center" alt="" height="30" width="40" src="https://v2.vuejs.org/">
+   <img align="center" alt="" height="30" width="40" src="https://img.icons8.com/windows/344/vuejs.png">
 </div>
   
 ##
