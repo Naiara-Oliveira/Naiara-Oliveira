@@ -16,7 +16,7 @@
 <img align="center"  height="30" width="50" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="right" alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
   
-   <img align="center" alt="" height="30" width="40" src="https://img.icons8.com/windows/344/vuejs.png">
+   <img align="center" alt="" height="30" width="40" src="https://data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZpZXdCb3g9IjAgMCAxNzIgMTcyIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9Im5vbnplcm8iIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2UtZGFzaGFycmF5PSIiIHN0cm9rZS1kYXNob2Zmc2V0PSIwIiBmb250LWZhbWlseT0ibm9uZSIgZm9udC13ZWlnaHQ9Im5vbmUiIGZvbnQtc2l6ZT0ibm9uZSIgdGV4dC1hbmNob3I9Im5vbmUiIHN0eWxlPSJtaXgtYmxlbmQtbW9kZTogbm9ybWFsIj48cGF0aCBkPSJNMCwxNzJ2LTE3MmgxNzJ2MTcyeiIgZmlsbD0ibm9uZSI+PC9wYXRoPjxnIGZpbGw9IiMyZWNjNzEiPjxwYXRoIGQ9Ik0xNi4xMjUsMzIuMjVsNjkuODc1LDExOC4yNWw2OS44NzUsLTExOC4yNWgtNTMuNzVsLTE2LjEyNSwyOC40OTE3bC0xNi4xMjUsLTI4LjQ5MTd6TTM0LjkzNzUsNDNoMjAuMjcxNzNsMzAuNzkwNzcsNTMuNzVsMzAuNzkwNzcsLTUzLjc1aDIwLjI3MTczbC01MS4wNjI1LDg2LjUzNTR6Ij48L3BhdGg+PC9nPjwvZz48L3N2Zz4=">
 </div>
   
 ##
